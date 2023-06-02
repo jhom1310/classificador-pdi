@@ -1,4 +1,12 @@
 /venv/
 OIDv4_ToolKit
 /dataset/
+<<<<<<< HEAD
 dataset_pdi.zip
+.vscode
+__pycache__
+pastas
+modelo.h5
+=======
+dataset_pdi.zip
+>>>>>>> parent of b2f4666 (update VGG19)
